@@ -2,7 +2,7 @@
 # Halo, Rama disini! 👋
 
 
-# Tugas 3 -- HTML DASAR
+# Tugas -- HTML DASAR
 
 Ini Adalah Repository untuk tugas ke 3 yang saya dapatkan dari PT Arkatama Multi Solusindo sebagai bentuk kegiatan di Studi Independen - Kampus Merdeka.
 
