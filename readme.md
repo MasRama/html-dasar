@@ -24,5 +24,5 @@ https://masrama.github.io/html-dasar/
 
 ## Screenshots
 
-![Web](https://i.ibb.co/XW3vY8p/Screenshot-from-2023-09-03-22-15-15.png)
+![Web](https://i.ibb.co/7WPssr4/Screenshot-from-2023-09-11-10-04-16.png)
 
