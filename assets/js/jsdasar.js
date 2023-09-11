@@ -34,8 +34,13 @@ if(nama) {
 //type conversion & function
 let angka = 10
 console.log(`Datawal Angka : ${angka}`)
-console.log(`Angka -> String : ${String(angka)}`)
-console.log(`Angka -> Boolean : ${Boolean(angka)}`)
+
+function conv(num) {
+    console.log(`Angka -> String : ${String(num)}`)
+    console.log(`Angka -> Boolean : ${Boolean(num)}`)
+}
+
+conv(angka)
 
 //Perulangan (Loop)
 for (let index = 0; index < 5; index++) {
