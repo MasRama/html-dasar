@@ -34,6 +34,20 @@ h1, h2, h3 {
   .mySlides {
     display: none;
   }
+
+  .cons {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 400px;
+  }
+
+  .cons2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 355px;
+  }
   
   /* Next & previous buttons */
   .prev, .next {
