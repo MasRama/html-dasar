@@ -4,6 +4,13 @@ let age = "21"
 const alamat = "Jl. Raya Bakalan - Kab Malang"
 console.log(`Nama : ${user}\nUmur : ${age}\nAlamat : ${alamat}`)
 
+let creator = {
+    email: "ryushineo@gmail.com",
+    github: "https://github.com/MasRama/"
+}
+
+console.log(creator)
+
 //Operator
 let a = 10
 let b = 5
@@ -23,6 +30,12 @@ if(nama) {
 } else {
     alert("Yah anda tidak mau memasukkan nama :(, Ok tidak masalah. Terima Kasih!")
 }
+
+//type conversion & function
+let angka = 10
+console.log(`Datawal Angka : ${angka}`)
+console.log(`Angka -> String : ${String(angka)}`)
+console.log(`Angka -> Boolean : ${Boolean(angka)}`)
 
 //Perulangan (Loop)
 for (let index = 0; index < 5; index++) {
