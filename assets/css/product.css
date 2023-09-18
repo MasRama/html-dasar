@@ -19,12 +19,7 @@ body {
     width: 250px;
 }
 
-h1 {
-    text-align: center;
-    color: var(--textcolor);
-}
-
-h3 {
+h1, h2, h3 {
     text-align: center;
     color: var(--textcolor);
 }
