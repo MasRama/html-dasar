@@ -1,0 +1,46 @@
+body {
+    background-color: #F0B86E;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+}
+
+.btnlogin {
+    background-color: #241468;
+    color: #F0B86E;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.bold {
+    font-weight: bold;
+    color: #241468;
+    font-size: 20px;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #241468;
+}
+
+@media (min-width: 100px) AND (max-width: 576px) {
+    body {
+        background-color: #186F65;
+    }
+}
+
+@media (min-width: 577px) AND (max-width: 768px) {
+    body {
+        background-color: #8EACCD;
+    }
+}
+
+@media (min-width: 769px) AND (max-width: 992px) {
+    body {
+        background-color: #F5FCCD;
+    }
+}
